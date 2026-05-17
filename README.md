@@ -19,3 +19,6 @@ Navigate to this folder in command prompt and put
 and then
 
 "streamlit run app.py"
+
+### Upload Interface
+![Upload Interface](screenshot1.png)
